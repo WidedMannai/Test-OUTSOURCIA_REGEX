@@ -4,7 +4,9 @@ This test's goal is to evaluate your capacity at creating parsers. Parsers are s
 
 # How to do the test?
 
-You will find a file `main.js` in the root folder. This file is where you are expected to write your code. When you're done you will have to passs all the tests that have been written for you in the project with the command `yarn test` or `npm run test` depending on what tool you use.
+You are expected to write your code `main.js` in the root folder. Expected results are located in the `expectedResults.js` file.
+
+To check your results when you're done run `yarn test` or `npm run test` depending on what tool you use.
 
 All the test must pass in order for the test to be considered complete. Your coding style (functional, POO, etc.) is not taken into consideration but we expect something that is legible and comprehensible by a regular software developper.
 
